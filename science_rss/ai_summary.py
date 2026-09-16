@@ -12,16 +12,16 @@ from .fetchers import HEADERS
 from .models import Article
 
 
-SYSTEM_PROMPT = """你是一名严谨的科学新闻编辑。请根据提供的标题、来源摘要和正文材料，用中文总结该研究。
+SYSTEM_PROMPT = """你是一名严谨的科学新闻编辑。请根据提供的标题、来源摘要和正文材料，用中文讲述这项研究。
 要求：
 1. 全文约300个汉字，建议控制在260—340字；
-2. 必须依次讲清楚四项内容：研究动机（已有研究的困难、局限或空白）、研究者怎么做、主要结论、科学意义；
-3. 使用以下四个明确标签：<b>研究动机：</b>、<b>研究方法：</b>、<b>主要结论：</b>、<b>科学意义：</b>；
-4. 面向具有一般科研背景的读者，准确、具体、少用空话；
-5. 不得补充材料中没有的信息。材料未说明的细节应写“公开材料未说明”，不能猜测；
-6. 直接输出四段 HTML，不要标题、前言、Markdown 或参考文献。"""
+2. 写成连贯、自然的科研叙事：从研究者面对的困难、局限或知识空白切入，自然过渡到他们采用的思路和方法，再讲清发现、结论及其意义；
+3. 不得使用“研究动机”“研究方法”“主要结论”“科学意义”等小标题、标签或分项罗列，也不要机械套用“首先、其次、最后”；
+4. 面向具有一般科研背景的读者，准确、具体、少用空话，让各部分像一个完整故事般衔接；
+5. 不得补充材料中没有的信息。材料没有披露的细节不要猜测，也不要生硬插入“公开材料未说明”；只写材料能够支持的内容；
+6. 直接输出一至两个连贯的 HTML 段落（只使用 <p>），不要标题、前言、Markdown、项目符号或参考文献。"""
 
-CACHE_VERSION = "research-summary-v1"
+CACHE_VERSION = "research-summary-v2-narrative"
 
 
 def _clean_text(node) -> str:
@@ -32,15 +32,50 @@ def _clean_text(node) -> str:
     return re.sub(r"\s+", " ", node.get_text(" ", strip=True)).strip()
 
 
+def _jsonld_article_bodies(soup: BeautifulSoup) -> List[str]:
+    bodies = []
+
+    def walk(value):
+        if isinstance(value, dict):
+            body = value.get("articleBody")
+            if isinstance(body, str):
+                bodies.append(re.sub(r"\s+", " ", BeautifulSoup(body, "lxml").get_text(" ", strip=True)).strip())
+            for child in value.values():
+                walk(child)
+        elif isinstance(value, list):
+            for child in value:
+                walk(child)
+
+    for node in soup.select('script[type="application/ld+json"]'):
+        try:
+            walk(json.loads(node.string or node.get_text() or ""))
+        except (TypeError, ValueError):
+            continue
+    return bodies
+
+
 def extract_article_text(article: Article, timeout: int = 20) -> Tuple[str, str]:
     try:
         response = requests.get(article.link, headers=HEADERS, timeout=timeout)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "lxml")
         candidates = []
-        for selector in ("article", "main", ".article-content", ".entry-content", ".post-content", "#article", "#content"):
+        for selector in (
+            '[itemprop="articleBody"]',
+            ".article-body",
+            ".article__body",
+            ".news-article",
+            ".article-main",
+            ".article-content",
+            ".entry-content",
+            ".post-content",
+            "article",
+            "main",
+            "#article",
+            "#content",
+        ):
             candidates.extend(soup.select(selector))
-        texts = [_clean_text(node) for node in candidates]
+        texts = _jsonld_article_bodies(soup) + [_clean_text(node) for node in candidates]
         text = max(texts, key=len, default="")
         if len(text) >= 500:
             return text[:14000], "fulltext"
@@ -57,6 +92,11 @@ def build_input(article: Article, material: str, basis: str) -> str:
 def _normalize(text: str) -> str:
     text = text.strip().replace("```html", "").replace("```", "").strip()
     return re.sub(r"\n+", "", text)
+
+
+def _has_section_labels(text: str) -> bool:
+    plain = BeautifulSoup(text, "lxml").get_text(" ", strip=True)
+    return any(re.search(rf"{label}\s*[：:]", plain) for label in ("研究动机", "研究方法", "主要结论", "科学意义"))
 
 
 class SummaryCache:
@@ -117,17 +157,19 @@ def summarize_articles(articles: Iterable[Article], cache_dir: Path, max_new: in
                 max_output_tokens=700,
             )
             summary = _normalize(response.output_text)
-            if not summary or not all(label in summary for label in ("研究动机", "研究方法", "主要结论", "科学意义")):
-                raise ValueError("AI response missed required sections")
+            if not summary:
+                raise ValueError("AI response was empty")
             plain_length = len(BeautifulSoup(summary, "lxml").get_text("", strip=True))
-            if not 230 <= plain_length <= 380:
+            if _has_section_labels(summary) or not 230 <= plain_length <= 380:
                 revision = client.responses.create(
                     model=model,
                     instructions=SYSTEM_PROMPT,
-                    input=f"请将下面这份摘要改写为260—340个汉字，保留四个标签和事实，不得增加信息：\n{summary}",
+                    input=f"请将下面这份摘要改写为260—340个汉字的连贯科研故事。融合动机、做法、发现和意义，不使用任何小标题或标签，保留事实且不得增加信息：\n{summary}",
                     max_output_tokens=700,
                 )
                 summary = _normalize(revision.output_text)
+            if not summary or _has_section_labels(summary):
+                raise ValueError("AI response did not follow narrative format")
             article.ai_summary = summary
             article.summary_basis = basis
             cache.save(article)

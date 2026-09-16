@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>凝聚态物理精选 · AI摘要</title>
+    <link>https://example.github.io/science-rss/</link>
+    <description>凝聚态、量子材料、拓扑与超导研究；约300字中文摘要</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 16 Sep 2026 08:40:04 +0000</lastBuildDate>
+  </channel>
+</rss>

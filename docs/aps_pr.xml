@@ -1,0 +1,712 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>APS Physics Recent</title>
+    <link>http://feeds.aps.org/rss/recent/physics.xml</link>
+    <description>APS Physics Recent 自定义 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 16 Sep 2026 08:40:04 +0000</lastBuildDate>
+    <item>
+      <title>Cells Put a Price Tag on Sensing Their World</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.121</link>
+      <description>&lt;div&gt;Author(s): Tuan Minh Pham A new model shows how cells could optimize biochemical sensing by balancing information gained against energy spent. [Physics 19, 121] Published Mon Sep 14, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.121</guid>
+      <pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chess Reveals Differences Between Human and AI Strategies</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.126</link>
+      <description>&lt;div&gt;Author(s): Mark Buchanan Chess grandmasters move toward a less complex game faster than AI players, suggesting different approaches for balancing short- and long-term prospects. [Physics 19, 126] Published Fri Sep 11, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.126</guid>
+      <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum States Cannot Hide Their Origin</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.125</link>
+      <description>&lt;div&gt;Author(s): Klaus Richter Theorists find a persistent signature of a chaotic quantum system’s initial state, implying a memory effect—called a quantum birthmark—that resists thermodynamic equilibration. [Physics 19, 125] Published Thu Sep 10, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.125</guid>
+      <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tuning Light Polarization with Quantum Geometry</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s113</link>
+      <description>&lt;div&gt;Author(s): Michael Schirber A crystal with special geometric properties can be optically driven to produce an output beam with any desired polarization. [Physics 19, s113] Published Thu Sep 10, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s113</guid>
+      <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making Uranian and Neptunian Ice on Earth</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s111</link>
+      <description>&lt;div&gt;Author(s): Charles Day Researchers crushed and heated ice between diamond anvils to confirm the existence of a phase of ice that could be present in the warm mantles of ice giants. [Physics 19, s111] Published Wed Sep 09, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s111</guid>
+      <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nonreciprocity Sends Flocks into Chaos</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.115</link>
+      <description>&lt;div&gt;Author(s): Sunghan Ro Two intermingled species of active matter can exhibit coherent rotation or disorderly scrambling depending on their mutual interactions. [Physics 19, 115] Published Tue Sep 08, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：softmatter=5, active_matter=6, condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.115</guid>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lab-Based Plasmas Shed Light on Stellar Mystery</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.123</link>
+      <description>&lt;div&gt;Author(s): Susan Curtis Using high-power lasers to drive highly magnetized plasmas, researchers have probed the stellar processes that control coronal mass ejections. [Physics 19, 123] Published Fri Sep 04, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.123</guid>
+      <pubDate>Fri, 04 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Quantum Filter for Improved Spintronics</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s108</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson A precisely engineered material interface can host the spin currents needed for practical spin-based electronics. [Physics 19, s108] Published Thu Sep 03, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=13&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s108</guid>
+      <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>To Lase or Not to Lase: The Question of Neutrino Superradiance</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.120</link>
+      <description>&lt;div&gt;Author(s): Ana Maria Rey, James K. Thompson, and Haoqing Zhang Two studies find that fundamental quantum constraints rule out a previously proposed neutrino-laser scheme. [Physics 19, 120] Published Wed Sep 02, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.120</guid>
+      <pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Effect of Clouds on Wind Farms</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s118</link>
+      <description>&lt;div&gt;Author(s): David Ehrenstein Simulations suggest that clouds can reduce the length of a wind farm’s slow-air wake, potentially increasing power production of neighboring wind farms. [Physics 19, s118] Published Wed Sep 02, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s118</guid>
+      <pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How a Superconductor Broke the Record</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s109</link>
+      <description>&lt;div&gt;Author(s): Marric Stephens Researchers have identified the reason a high-pressure, high-temperature superconductor outperforms other similar compounds. [Physics 19, s109] Published Tue Sep 01, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s109</guid>
+      <pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chatbots are Learning to Speak Physics</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.119</link>
+      <description>&lt;div&gt;Author(s): Eleanor DeGoffau Researchers are teaching AI models the language of particle physics, giving them the ability to compose novel theories. But human input remains essential. [Physics 19, 119] Published Mon Aug 31, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.119</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Hacking Coming Sooner than Expected</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.117</link>
+      <description>&lt;div&gt;Author(s): Michael Schirber New estimates suggest that some crypto-security systems may soon become vulnerable to quantum-powered break-ins. [Physics 19, 117] Published Fri Aug 21, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.117</guid>
+      <pubDate>Fri, 21 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teleporting More Quantum States at Once</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s110</link>
+      <description>&lt;div&gt;Author(s): Sophia Chen Researchers have demonstrated the quantum teleportation of a 100-pixel image by a method that could help to scale up quantum networks. [Physics 19, s110] Published Thu Aug 20, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s110</guid>
+      <pubDate>Thu, 20 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Spin on Superconductivity</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s106</link>
+      <description>&lt;div&gt;Author(s): Marric Stephens Researchers have made the first definitive measurements of an elusive superconducting state. [Physics 19, s106] Published Wed Aug 19, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s106</guid>
+      <pubDate>Wed, 19 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Physics Can Replenish Birds’ Ancestral Songbooks</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.106</link>
+      <description>&lt;div&gt;Author(s): Martín De Ambrosio Gabriel Mindlin has dedicated his life to developing experiments that demonstrate how birdsongs are transmitted among individuals. [Physics 19, 106] Published Tue Aug 18, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.106</guid>
+      <pubDate>Tue, 18 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whale Calls Reveal an Unexpected Wave Effect</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s107</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson A theory inspired by whale tracking suggests that interference could make the peak of a light-wave packet appear to travel faster than light—without transmitting information superluminally. [Physics 19, s107] Published Tue Aug 18, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s107</guid>
+      <pubDate>Tue, 18 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bilayer Graphene’s Magic Revealed</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.114</link>
+      <description>&lt;div&gt;Author(s): Efthimios Kaxiras New experiments suggest that superconductivity in twisted bilayer graphene depends on an unconventional electron-pairing mechanism. [Physics 19, 114] Published Mon Aug 17, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.114</guid>
+      <pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decoding the History Recorded in Lunar Soil</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.116</link>
+      <description>&lt;div&gt;Author(s): Rachel Berkowitz A model that captures how crater-forming impacts redistribute lunar dirt will help researchers read the cosmic timeline found in samples returned from the Moon. [Physics 19, 116] Published Fri Aug 14, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.116</guid>
+      <pubDate>Fri, 14 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quark–Gluon Plasma Jet Leaves a Wake</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s100</link>
+      <description>&lt;div&gt;Author(s): Rachel Berkowitz Back-to-back jets produced during heavy-ion collisions reveal a plasma property predicted by quantum chromodynamics. [Physics 19, s100] Published Thu Aug 13, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s100</guid>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Neutral Diamond Defect</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s105</link>
+      <description>&lt;div&gt;Author(s): Charles Day Researchers have determined that a neutral oxygen-vacancy center is as long-lived as the more familiar negatively charged nitrogen vacancy. [Physics 19, s105] Published Thu Aug 13, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s105</guid>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Quantum Memory Test</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s101</link>
+      <description>&lt;div&gt;Author(s): Sophia Chen Researchers propose a new way to evaluate the performance of quantum memory devices, which will be key components in a future quantum Internet. [Physics 19, s101] Published Wed Aug 12, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s101</guid>
+      <pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cancer Sets DNA in Motion</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s99</link>
+      <description>&lt;div&gt;Author(s): Marric Stephens A microscope video analysis has provided new details about molecular motion inside the nuclei of cancer cells. [Physics 19, s99] Published Wed Aug 12, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s99</guid>
+      <pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Window into Atom-Thin Superconductors</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s103</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson A key property of superconductors called superfluid stiffness can now be measured in a wide range of 2D systems. [Physics 19, s103] Published Tue Aug 11, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s103</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Rare Events Remember</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.105</link>
+      <description>&lt;div&gt;Author(s): Nicolas Levernier A new theory of rare recurrent events dispenses with the simplifying assumption that recent events lack memory of previous ones. [Physics 19, 105] Published Mon Aug 10, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.105</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum-Secure Ballots Demonstrated in the Lab</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.113</link>
+      <description>&lt;div&gt;Author(s): Philip Ball Two research teams have run small-scale demonstrations of voting protocols that could ensure election security using the principles of quantum mechanics. [Physics 19, 113] Published Fri Aug 07, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.113</guid>
+      <pubDate>Fri, 07 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Sun as Never Before Seen</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.112</link>
+      <description>&lt;div&gt;Author(s): Michael Schirber The sharpest-ever images of the solar surface reveal extensive plasma vortices that could explain energy transport through the Sun’s atmosphere. [Physics 19, 112] Published Thu Aug 06, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.112</guid>
+      <pubDate>Thu, 06 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phase Transition in Ant Colonies</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.111</link>
+      <description>&lt;div&gt;Author(s): Samuel Jarman Two types of ant colonies—one that experiences sudden bursts of activity and one that doesn’t—exemplify two distinct phases of collective behavior. [Physics 19, 111] Published Wed Aug 05, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.111</guid>
+      <pubDate>Wed, 05 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Improves Extreme Weather Simulations</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s98</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson A new algorithm combines AI weather forecasts with a physics-based climate model to efficiently characterize rare and dangerous weather events. [Physics 19, s98] Published Wed Aug 05, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s98</guid>
+      <pubDate>Wed, 05 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Radioactive Molecules Promise Probe of New Physics</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.110</link>
+      <description>&lt;div&gt;Author(s): Susan Curtis A tabletop method for producing cold radioactive molecules enables precise measurement of their properties and could uncover violations of fundamental symmetries. [Physics 19, 110] Published Tue Aug 04, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.110</guid>
+      <pubDate>Tue, 04 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting the Illicit Removal of Nuclear Fuel</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s94</link>
+      <description>&lt;div&gt;Author(s): Sophia Chen Spent nuclear fuel and shutdown nuclear reactors emit antineutrinos, which nuclear watchdogs could use for real-time monitoring of plants. [Physics 19, s94] Published Tue Aug 04, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s94</guid>
+      <pubDate>Tue, 04 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Catching and Guiding an Elastic Rainbow</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.109</link>
+      <description>&lt;div&gt;Author(s): Yeongtae Jang and Junsuk Rho Two experiments demonstrate a promising platform for trapping, sorting, and directing vibrational energy. [Physics 19, 109] Published Mon Aug 03, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.109</guid>
+      <pubDate>Mon, 03 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predicted Noncrystalline Structures Have Bonus Properties</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.108</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson Simulations reveal disordered structures that are also surprisingly resistant to impacts and cracks. [Physics 19, 108] Published Fri Jul 31, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.108</guid>
+      <pubDate>Fri, 31 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tapping Tokamak Turbulence</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s95</link>
+      <description>&lt;div&gt;Author(s): Charles Day Supercomputer simulations reveal how turbulence supports a Goldilocks regime for operating a fusion reactor. [Physics 19, s95] Published Thu Jul 30, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s95</guid>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hyperdoped Silicon Photodiode Sets Efficiency Record</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s97</link>
+      <description>&lt;div&gt;Author(s): Rachel Berkowitz A new light-trapping architecture could lead to CMOS-compatible night-vision technology. [Physics 19, s97] Published Wed Jul 29, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s97</guid>
+      <pubDate>Wed, 29 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unpacking Particle Showers with Machine Learning</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.107</link>
+      <description>&lt;div&gt;Author(s): Samuel Jarman A new AI-powered event-processing algorithm is being readied to cope with the torrent of data that will stream from the Large Hadron Collider upgrade. [Physics 19, 107] Published Tue Jul 28, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.107</guid>
+      <pubDate>Tue, 28 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficient Predictions of Electric Response</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s102</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson An AI model accurately estimates quantities that determine a material’s response to electric fields—at a fraction of the usual computational cost. [Physics 19, s102] Published Tue Jul 28, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s102</guid>
+      <pubDate>Tue, 28 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Theory of Muon Spin Relaxation</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s96</link>
+      <description>&lt;div&gt;Author(s): Charles Day A technique for determining the magnetic structure of materials gets a theoretical makeover that can cope with nonrandom, temporally correlated fluctuations. [Physics 19, s96] Published Tue Jul 28, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s96</guid>
+      <pubDate>Tue, 28 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trembling Photons in Non-Abelian Electric Fields</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.89</link>
+      <description>&lt;div&gt;Author(s): Xin Qiao and Xiao-Bo Zhang A ring of optical fiber can be made to host phenomena that originated in the realm of high-energy physics. [Physics 19, 89] Published Mon Jul 27, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.89</guid>
+      <pubDate>Mon, 27 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to the Quantum-Steampunk Laboratory</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.101</link>
+      <description>&lt;div&gt;Author(s): Rachel Berkowitz Nicole Yunger Halpern brings her quantum thermodynamics research to the public via analogies to a futuristic Victorian adventure. [Physics 19, 101] Published Thu Jul 23, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.101</guid>
+      <pubDate>Thu, 23 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Molecular Imaging Without the Wait</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s93</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson A new atomic force microscope captures the structures of individual molecules and their chemical bonds at record speeds. [Physics 19, s93] Published Thu Jul 23, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s93</guid>
+      <pubDate>Thu, 23 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Neural Networks Face the Hardware Test</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.100</link>
+      <description>&lt;div&gt;Author(s): Peter Röseler By implementing a quantum neural network using two quantum-computing platforms, researchers have taken steps toward determining whether such systems can reliably fulfill their theoretical promise. [Physics 19, 100] Published Wed Jul 22, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.100</guid>
+      <pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Flowing Spins Polarize Up or Down</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s104</link>
+      <description>&lt;div&gt;Author(s): Charles Day Researchers have figured out the origin of an exotic antiferromagnet’s out-of-plane spin currents. [Physics 19, s104] Published Wed Jul 22, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s104</guid>
+      <pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Map to a Long-Sought Quantum Simulator</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s90</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson Ultracold atoms in an optical lattice could emulate a prominent model of quantum matter linked to black holes and high-temperature superconductors. [Physics 19, s90] Published Tue Jul 21, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s90</guid>
+      <pubDate>Tue, 21 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Noise Proofing Molecules for New-Physics Searches</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.103</link>
+      <description>&lt;div&gt;Author(s): Steven Hoekstra Certain molecules can be placed into states that are less sensitive to external noise, offering researchers a quiet system for probing fundamental physics. [Physics 19, 103] Published Mon Jul 20, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.103</guid>
+      <pubDate>Mon, 20 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Untangling the Nature of Exotic Hall States</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s82</link>
+      <description>&lt;div&gt;Author(s): Charles Day A new theory examines the various ways quasiparticles pair up in two-dimensional semiconductors under high magnetic fields. [Physics 19, s82] Published Thu Jul 16, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s82</guid>
+      <pubDate>Thu, 16 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evidence Emerges for a Fractional Topological Insulator</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s87</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson Experiments show signs of a material that conducts electricity in opposite directions along its edges through fractionally charged quasiparticles. [Physics 19, s87] Published Thu Jul 16, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=10&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s87</guid>
+      <pubDate>Thu, 16 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evidence Builds for Martian Magma Chambers</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.104</link>
+      <description>&lt;div&gt;Author(s): Rachel Berkowitz A mineral physics interpretation of NASA seismic data hints that Mars has a chemically evolved crust. [Physics 19, 104] Published Wed Jul 15, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.104</guid>
+      <pubDate>Wed, 15 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cutting the Tail of a Photon</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s91</link>
+      <description>&lt;div&gt;Author(s): Marric Stephens Removing a mirror while a single photon is in the process of reflecting creates a quantum state of countless photons, theorists say. [Physics 19, s91] Published Wed Jul 15, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s91</guid>
+      <pubDate>Wed, 15 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unraveling the Topology of Knitted Fabrics</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s88</link>
+      <description>&lt;div&gt;Author(s): Rachel Berkowitz A framework based on knot theory links the robustness of textiles to the way defects propagate through them. [Physics 19, s88] Published Tue Jul 14, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s88</guid>
+      <pubDate>Tue, 14 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Entanglement Goes Steady</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.91</link>
+      <description>&lt;div&gt;Author(s): Aziza Almanakly Two independent groups have demonstrated ways to entangle quantum bits without the need for precisely timed control pulses. [Physics 19, 91] Published Mon Jul 13, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.91</guid>
+      <pubDate>Mon, 13 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Simple Search for Tiny Charges</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.102</link>
+      <description>&lt;div&gt;Author(s): Philip Ball Decades-old experiments have now been enlisted to set new bounds on the properties of a hypothetical particle that bears a tiny fraction of the electron’s charge. [Physics 19, 102] Published Fri Jul 10, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.102</guid>
+      <pubDate>Fri, 10 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Horse Manure, Transistors, and AI</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.98</link>
+      <description>&lt;div&gt;What can past bottlenecks and imagined technologies tell us about the future of AI? [Physics 19, 98] Published Thu Jul 09, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.98</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plans for Moon-Based Gravitational-Wave Detectors Get a Lift from Geology</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s89</link>
+      <description>&lt;div&gt;Author(s): Michael Schirber A proposed gravitational-wave observatory on the Moon might gather more information than previously thought, thanks to geology. [Physics 19, s89] Published Thu Jul 09, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s89</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Widening Anomaly Strains the Standard Model</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.94</link>
+      <description>&lt;div&gt;Author(s): Slavomira Stefkova Does a new measurement of a rare decay of the neutral B meson portend new physics? [Physics 19, 94] Published Wed Jul 08, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.94</guid>
+      <pubDate>Wed, 08 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Blueprint for a Quantum Simulator Made of Helium Atoms</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s79</link>
+      <description>&lt;div&gt;Author(s): Sophia Chen New theoretical work indicates that an array of helium-3 atoms could enable more complex quantum simulations. [Physics 19, s79] Published Wed Jul 08, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s79</guid>
+      <pubDate>Wed, 08 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Videos Reveal the Secret to Giant Sperm Packing</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.97</link>
+      <description>&lt;div&gt;Author(s): Michael Schirber The exceptionally long sperm of fruit flies are able to fit in their small storage organ by swimming in opposite-direction lanes, new experiments show. [Physics 19, 97] Published Tue Jul 07, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.97</guid>
+      <pubDate>Tue, 07 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stabilizing Magnetic Defects</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s85</link>
+      <description>&lt;div&gt;Author(s): Marric Stephens Researchers have shown that defects in lattices of magnetic quasiparticles called skyrmions can be created, stabilized, and manipulated. [Physics 19, s85] Published Tue Jul 07, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s85</guid>
+      <pubDate>Tue, 07 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evidence Mounts for Hierarchical Black Hole Mergers</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.96</link>
+      <description>&lt;div&gt;Author(s): Simona J. Miller Different analyses of gravitational-wave observations are converging on evidence for a distinct population of massive black hole binaries produced through repeated mergers. [Physics 19, 96] Published Mon Jul 06, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.96</guid>
+      <pubDate>Mon, 06 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Differences Between Niche and Mainstream Trends</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.99</link>
+      <description>&lt;div&gt;Author(s): Mark Buchanan A study of online language shows that niche terms—like the name of a narrowly popular music group—spread less quickly than mainstream words. [Physics 19, 99] Published Mon Jul 06, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.99</guid>
+      <pubDate>Mon, 06 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Illuminating Iron Clusters’ Magnetism</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s92</link>
+      <description>&lt;div&gt;Author(s): Sophia Chen A technique combining spectroscopy and computational simulations allows the geometry and spin magnetic moment of iron nanoclusters to be determined more precisely. [Physics 19, s92] Published Wed Jul 01, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s92</guid>
+      <pubDate>Wed, 01 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How We Rethink the PhD Will Shape the Future of Science</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.87</link>
+      <description>&lt;div&gt;Author(s): Verónica Sanz AI could make science stronger—but only if we deliberately use it to strengthen the formation of future scientists rather than to reduce their numbers. [Physics 19, 87] Published Tue Jun 30, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.87</guid>
+      <pubDate>Tue, 30 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rubin Observatory Hits the Record Button</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.95</link>
+      <description>&lt;div&gt;Author(s): Matteo Rini A long-awaited survey gets rolling, beginning a decade-long effort to produce the most expansive movie of the Universe ever recorded. [Physics 19, 95] Published Tue Jun 30, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.95</guid>
+      <pubDate>Tue, 30 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rethinking Mean-Field Theory for Neural Networks</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s81</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson An extended version of mean-field theory accurately captures activity patterns seen in networks of biological neurons. [Physics 19, s81] Published Tue Jun 30, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s81</guid>
+      <pubDate>Tue, 30 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Oscillators Find a Shared Beat</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.93</link>
+      <description>&lt;div&gt;Author(s): Jamir Marino The synchronization of two quantum oscillators reveals a collective rhythm encoded solely in their correlations. [Physics 19, 93] Published Mon Jun 29, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.93</guid>
+      <pubDate>Mon, 29 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solar Storm Unexpectedly Reduces Cosmic-Ray Flux</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.92</link>
+      <description>&lt;div&gt;Author(s): Michael Schirber A solar storm hitting Earth appears to have reduced the amount of incoming high-energy cosmic rays, suggesting a new way of measuring solar activity. [Physics 19, 92] Published Fri Jun 26, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.92</guid>
+      <pubDate>Fri, 26 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Laser Beam Brings Contrast to Electron Microscopy</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.90</link>
+      <description>&lt;div&gt;Author(s): Susan Curtis Physicists have demonstrated a laser-based method that enables a cryogenic electron microscope to image small protein structures with greater detail than previously possible. [Physics 19, 90] Published Thu Jun 25, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.90</guid>
+      <pubDate>Thu, 25 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Special Spin State Triggered by Curved Surface</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s86</link>
+      <description>&lt;div&gt;Author(s): David Ehrenstein A tiny bump in a magnetic film exposed to microwaves can engender spin waves with precisely spaced frequencies. [Physics 19, s86] Published Thu Jun 25, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s86</guid>
+      <pubDate>Thu, 25 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transforming the Computational Workhorse of Electronic Structure</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s84</link>
+      <description>&lt;div&gt;Author(s): Rachel Berkowitz A geometric reformulation of time-dependent density-functional theory better describes nonequilibrium systems. [Physics 19, s84] Published Wed Jun 24, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：active_matter=3, condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s84</guid>
+      <pubDate>Wed, 24 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Suspensions Remember</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s83</link>
+      <description>&lt;div&gt;Author(s): Charles Day A new experiment elucidates the ability of some particle–fluid mixtures to behave in ways that depend on their previous flow. [Physics 19, s83] Published Tue Jun 23, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s83</guid>
+      <pubDate>Tue, 23 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can String Theory Be Explained with No Strings Attached?</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.88</link>
+      <description>&lt;div&gt;Author(s): Eric Perlmutter Using a “bootstrap” approach, researchers show that a small set of assumptions may naturally lead to a string-theory description of certain high-energy processes. [Physics 19, 88] Published Mon Jun 22, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.88</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Perspective on Real-Valued Quantum Theory</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.85</link>
+      <description>&lt;div&gt;Author(s): Fatemeh Moradi-Kalarde and Marc-Olivier Renou By exploiting a physically motivated principle, rather than a mathematical postulate, researchers offer a new perspective on how a real-valued quantum theory can be constructed. [Physics 19, 85] Published Thu Jun 18, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.85</guid>
+      <pubDate>Thu, 18 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Helium Spectroscopy Hits Record Precision</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s80</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson Improved measurements of an electronic transition in helium-4 atoms constrain the size difference between helium-4 and helium-3 nuclei. [Physics 19, s80] Published Thu Jun 18, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s80</guid>
+      <pubDate>Thu, 18 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Climate for Physicists</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.86</link>
+      <description>&lt;div&gt;Author(s): Sophia Chen As concerns about climate change grow, researchers from fields ranging from gravitational-wave astronomy to condensed-matter physics are finding unexpected opportunities to contribute to climate research. [Physics 19, 86] Published Wed Jun 17, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.86</guid>
+      <pubDate>Wed, 17 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A More Stable Photon Emitter</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s78</link>
+      <description>&lt;div&gt;Author(s): Marric Stephens A new device that generates single photons with more consistent wavelengths than existing methods could improve quantum communications. [Physics 19, s78] Published Wed Jun 17, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s78</guid>
+      <pubDate>Wed, 17 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strange-Particle Decay Comes to Light</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s77</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson An exotic meson’s photon-emitting decay opens a window into the particle’s long-debated structure. [Physics 19, s77] Published Tue Jun 16, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s77</guid>
+      <pubDate>Tue, 16 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhancing the Quantum Oscillation Toolbox</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.83</link>
+      <description>&lt;div&gt;Author(s): Gal Shavit A new experiment probes the quantum geometry of electronic wave functions involved in a nonlinear Hall response. [Physics 19, 83] Published Mon Jun 15, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.83</guid>
+      <pubDate>Mon, 15 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanoparticle Motion Measured Beyond Quantum Limit</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.84</link>
+      <description>&lt;div&gt;Author(s): Mark Buchanan Researchers boosted the sensitivity for measurements of the motion of a levitated nanoparticle, with potential uses in dark matter searches. [Physics 19, 84] Published Fri Jun 12, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.84</guid>
+      <pubDate>Fri, 12 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dodging Neutrino-Mass Tension with Decays</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s72</link>
+      <description>&lt;div&gt;Author(s): Michael Schirber A disagreement over neutrino-mass estimates might be resolved by assuming that neutrinos decay into hypothetical massless particles. [Physics 19, s72] Published Thu Jun 11, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s72</guid>
+      <pubDate>Thu, 11 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trapping a Precursor to Ultracold Hydrogen</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s71</link>
+      <description>&lt;div&gt;Author(s): Sophia Chen Researchers have used laser cooling and trapping to isolate calcium monohydride, a key step toward producing ultracold atomic hydrogen. [Physics 19, s71] Published Wed Jun 10, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s71</guid>
+      <pubDate>Wed, 10 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vibrations Make Electrons Team Up</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s75</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson Atomic-scale measurements show that vibrational excitations can cause electrons to move in bunches. [Physics 19, s75] Published Wed Jun 10, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s75</guid>
+      <pubDate>Wed, 10 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Steady Breeze from the Milky Way’s Black Hole</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.82</link>
+      <description>&lt;div&gt;Author(s): Matteo Rini Astronomers may have found a long-sought wind from Sagittarius A*, offering a glimpse into how typical supermassive black holes shape their environment. [Physics 19, 82] Published Tue Jun 09, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.82</guid>
+      <pubDate>Tue, 09 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taking Longer Steps in Numerical Simulations</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s74</link>
+      <description>&lt;div&gt;Author(s): Charles Day Machine learning can reduce the number of time steps needed to accurately predict the progress of a dynamically evolving system. [Physics 19, s74] Published Tue Jun 09, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s74</guid>
+      <pubDate>Tue, 09 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amplifying Randomness with Quantum Measurements</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.81</link>
+      <description>&lt;div&gt;Author(s): Sam Jarman Researchers use a quantum Bell test to generate certifiably random numbers, key ingredients for secure network communications. [Physics 19, 81] Published Mon Jun 08, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.81</guid>
+      <pubDate>Mon, 08 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Free Lunch for Sound Waves</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.80</link>
+      <description>&lt;div&gt;Author(s): Mark Buchanan Sound wave scattering can be increased in one frequency range only by reducing scattering in another range, according to experiments—a discovery relevant for acoustic engineering. [Physics 19, 80] Published Fri Jun 05, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.80</guid>
+      <pubDate>Fri, 05 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Killer Cells Coordinate to Target Cancer</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s69</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson Experiments show how so-called natural killer cells adjust their dynamics depending on whether they face cancerous or healthy cells. [Physics 19, s69] Published Thu Jun 04, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s69</guid>
+      <pubDate>Thu, 04 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Antihydrogen Measurement Sharpens Antimatter Symmetry Test</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.79</link>
+      <description>&lt;div&gt;Author(s): Matteo Rini A 100-fold improvement in a key antihydrogen measurement strengthens tests of matter–antimatter symmetry, entering a regime sensitive to the antiproton’s internal structure. [Physics 19, 79] Published Wed Jun 03, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.79</guid>
+      <pubDate>Wed, 03 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Nanoscale Droplets Don’t Coalesce</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s70</link>
+      <description>&lt;div&gt;Author(s): Rachel Berkowitz Size-dependent electrostatic barriers place an upper limit on droplet merging efficiency. [Physics 19, s70] Published Wed Jun 03, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s70</guid>
+      <pubDate>Wed, 03 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Confirming the Polarizing Effect of Chiral Molecules</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s73</link>
+      <description>&lt;div&gt;Author(s): Marric Stephens A new experiment shows that spin-polarized currents conducted by helical organic molecules are not just a measurement artifact, as some researchers suspected. [Physics 19, s73] Published Tue Jun 02, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s73</guid>
+      <pubDate>Tue, 02 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Model for Ambition</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.78</link>
+      <description>&lt;div&gt;Author(s): Susan Curtis A theoretical approach that attempts to account for the psychology of human decision-making offers strategies for success in business, professional life, and politics. [Physics 19, 78] Published Fri May 29, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.78</guid>
+      <pubDate>Fri, 29 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coiled Phononic Structure Super-Resonates</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s65</link>
+      <description>&lt;div&gt;Author(s): Charles Day Computer simulations show how a structure placed underneath a surface suppresses turbulence in a fluid flow across the surface at a wide range of frequencies. [Physics 19, s65] Published Thu May 28, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s65</guid>
+      <pubDate>Thu, 28 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are Electrons Real?</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.70</link>
+      <description>&lt;div&gt;Author(s): Marric Stephens A deceptively simple question spurred an exploration of physicists’ views on whether their theories describe reality. [Physics 19, 70] Published Wed May 27, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.70</guid>
+      <pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Shell Model’s Shell Game</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s76</link>
+      <description>&lt;div&gt;Author(s): David Ehrenstein A new experiment settles a controversy over proton and neutron energies in light nuclei. [Physics 19, s76] Published Wed May 27, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s76</guid>
+      <pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Corals Stir Seawater</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.76</link>
+      <description>&lt;div&gt;Author(s): Vivek N. Prakash A new model explains how the microscopic hairs carpeting corals coordinate their beating to shape fluid flow. [Physics 19, 76] Published Tue May 26, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.76</guid>
+      <pubDate>Tue, 26 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A More Accurate Prediction of Band-Gap Energies</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s66</link>
+      <description>&lt;div&gt;Author(s): Rachel Berkowitz A computational framework captures the influence of many-body effects on semiconductor band gaps. [Physics 19, s66] Published Tue May 26, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s66</guid>
+      <pubDate>Tue, 26 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canceling Quantum Noise</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.77</link>
+      <description>&lt;div&gt;Author(s): Philip Ball A new technique uses an ‘anti-noise’ signal to cancel out the unavoidable quantum noise associated with precision measurements like those needed for gravitational-wave detection. [Physics 19, 77] Published Fri May 22, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.77</guid>
+      <pubDate>Fri, 22 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Has Striking Science Skills, but Grad Students Are Still Wanted</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.74</link>
+      <description>&lt;div&gt;Author(s): Scott Dodelson The remarkable capabilities of AI are reshaping research, potentially affecting the relationship between professors and graduate students. [Physics 19, 74] Published Thu May 21, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.74</guid>
+      <pubDate>Thu, 21 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Twisting Spins into a Spin-Wave Lens</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s68</link>
+      <description>&lt;div&gt;Author(s): Marric Stephens A material’s contorted magnetic texture could be used to focus or collimate spin waves in future spintronic devices. [Physics 19, s68] Published Thu May 21, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s68</guid>
+      <pubDate>Thu, 21 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Harmonics Push Lasers Toward Record Intensities</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.73</link>
+      <description>&lt;div&gt;Author(s): Susan Curtis Researchers have unlocked a method to dramatically boost the intensity of high-power lasers, opening the route toward light-induced matter creation. [Physics 19, 73] Published Wed May 20, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.73</guid>
+      <pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Quantum Simulator with Circular States</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s63</link>
+      <description>&lt;div&gt;Author(s): Sophia Chen Using atoms in two different highly excited states enables quantum bits that are both long-lived and manipulable. [Physics 19, s63] Published Wed May 20, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s63</guid>
+      <pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-09-16T08:40:04.834230+00:00",
+  "sources": [
+    {
+      "id": "zhisheshutu",
+      "name": "知社学术圈",
+      "status": "ok",
+      "items": 20,
+      "duration_ms": 11543,
+      "error": ""
+    },
+    {
+      "id": "byteclicks",
+      "name": "ByteClicks Frontier",
+      "status": "ok",
+      "items": 21,
+      "duration_ms": 21557,
+      "error": ""
+    },
+    {
+      "id": "pansci",
+      "name": "泛科学",
+      "status": "ok",
+      "items": 23,
+      "duration_ms": 6621,
+      "error": ""
+    },
+    {
+      "id": "cas_daily",
+      "name": "中科院每日科学",
+      "status": "ok",
+      "items": 60,
+      "duration_ms": 8084,
+      "error": ""
+    },
+    {
+      "id": "sciencenet_news",
+      "name": "科学网新闻",
+      "status": "ok",
+      "items": 20,
+      "duration_ms": 18591,
+      "error": ""
+    },
+    {
+      "id": "sciencenet_paper",
+      "name": "科学网论文",
+      "status": "ok",
+      "items": 20,
+      "duration_ms": 18539,
+      "error": ""
+    },
+    {
+      "id": "mittrchina",
+      "name": "MIT科技评论中文版",
+      "status": "cached",
+      "items": 0,
+      "duration_ms": 12052,
+      "error": "No module named 'playwright'"
+    },
+    {
+      "id": "scitw",
+      "name": "科学人",
+      "status": "cached",
+      "items": 0,
+      "duration_ms": 10066,
+      "error": "No module named 'playwright'"
+    },
+    {
+      "id": "huanqiukexue",
+      "name": "环球科学",
+      "status": "cached",
+      "items": 14,
+      "duration_ms": 15019,
+      "error": "HTTPSConnectionPool(host='www.huanqiukexue.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "id": "worldscience",
+      "name": "世界科学",
+      "status": "ok",
+      "items": 18,
+      "duration_ms": 9985,
+      "error": ""
+    },
+    {
+      "id": "nsfc",
+      "name": "基金成果快讯",
+      "status": "cached",
+      "items": 0,
+      "duration_ms": 8064,
+      "error": "502 Server Error: Bad Gateway for url: https://www.nsfc.gov.cn/csc/20340/20343/index.html"
+    },
+    {
+      "id": "phys_softmatter",
+      "name": "Phys.org Soft Matter",
+      "status": "ok",
+      "items": 30,
+      "duration_ms": 8338,
+      "error": ""
+    },
+    {
+      "id": "physicsworld_cm",
+      "name": "Physics World Condensed Matter",
+      "status": "ok",
+      "items": 100,
+      "duration_ms": 8524,
+      "error": ""
+    },
+    {
+      "id": "scinews_physics",
+      "name": "Sci.News Physics",
+      "status": "ok",
+      "items": 60,
+      "duration_ms": 7379,
+      "error": ""
+    },
+    {
+      "id": "aps_pr",
+      "name": "APS Physics Recent",
+      "status": "ok",
+      "items": 100,
+      "duration_ms": 7039,
+      "error": ""
+    }
+  ],
+  "ai_summary": {
+    "enabled": false,
+    "cached": 0,
+    "created": 0,
+    "failed": 0
+  }
+}

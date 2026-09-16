@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>软物质精选</title>
+    <link>https://example.github.io/science-rss/</link>
+    <description>软物质、胶体、聚合物、颗粒、液晶、玻璃态与相分离研究</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 16 Sep 2026 08:40:04 +0000</lastBuildDate>
+    <item>
+      <title>From atomic vibrations to laboratory mechanics: Bridging 20 orders of magnitude in time</title>
+      <link>https://phys.org/news/2026-09-atomic-vibrations-laboratory-mechanics-bridging.html</link>
+      <description>&lt;div&gt;How can we predict the way a real material, such as a polymer, responds mechanically over timescales ranging from the ultrafast motion of atoms to the slow deformations measured in a laboratory? This is a deceptively difficult problem.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=9&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-09-atomic-vibrations-laboratory-mechanics-bridging.html</guid>
+      <pubDate>Mon, 14 Sep 2026 22:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nonreciprocity Sends Flocks into Chaos</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.115</link>
+      <description>&lt;div&gt;Author(s): Sunghan Ro Two intermingled species of active matter can exhibit coherent rotation or disorderly scrambling depending on their mutual interactions. [Physics 19, 115] Published Tue Sep 08, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：softmatter=5, active_matter=6, condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.115</guid>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tiny polymer particles keep water jets stable for longer</title>
+      <link>https://phys.org/news/2026-09-tiny-polymer-particles-jets-stable.html</link>
+      <description>&lt;div&gt;Tiny, soft polymer particles—known as microgels—can help to stabilize extremely thin liquid jets. How this works is the finding of a study led by researchers at TU Darmstadt, which has been published in Nature Communications. The findings could be of interest for the development of needle-free medical injection systems.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=15&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-09-tiny-polymer-particles-jets-stable.html</guid>
+      <pubDate>Mon, 07 Sep 2026 16:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soft nanoscale confinement prevents ice, exposing water's liquid-to-glass transition</title>
+      <link>https://phys.org/news/2026-09-soft-nanoscale-confinement-ice-exposing.html</link>
+      <description>&lt;div&gt;An international collaboration of researchers has used ANSTO's facilities to uncover new properties of one of the most fundamental everyday materials, water, and answer an important scientific question. The findings, published in Nature Communications, have practical implications for understanding water at very low temperatures. The findings are relevant to cryopreservation of biological materials, food-freezing technologies and understanding water in living cells, where it is often confined at the nanoscale.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-09-soft-nanoscale-confinement-ice-exposing.html</guid>
+      <pubDate>Thu, 03 Sep 2026 23:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Surf's up: How the seafloor shapes breaking waves</title>
+      <link>https://phys.org/news/2026-09-surf-seafloor.html</link>
+      <description>&lt;div&gt;A new study led by surfing scientists at the Scripps Institution of Oceanography at UC San Diego revealed the physical relationships underlying a pattern familiar to generations of surfers.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-09-surf-seafloor.html</guid>
+      <pubDate>Thu, 03 Sep 2026 16:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fast but error-prone AI assists in solving a decades-old fluid mechanics problem in five weeks</title>
+      <link>https://phys.org/news/2026-08-fast-error-prone-ai-decades.html</link>
+      <description>&lt;div&gt;An AI assistant helped University of Colorado Boulder researchers solve a mathematical problem that had challenged their lab for a year and a half, though it made subtle errors along the way. The breakthrough could improve how scientists study nanoparticles—tiny particles about 1,000 times thinner than a human hair—but it reveals both the promise and limitations of AI as a scientific research partner.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-fast-error-prone-ai-decades.html</guid>
+      <pubDate>Thu, 27 Aug 2026 20:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geomimicry offers a new framework for engineering sustainable materials</title>
+      <link>https://phys.org/news/2026-08-geomimicry-framework-sustainable-materials.html</link>
+      <description>&lt;div&gt;When engineers look to nature for inspiration, they often turn to living systems. The flight of birds has influenced aircraft design, gecko feet inspired new adhesives and lotus leaves led to the development of self-cleaning surfaces.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-geomimicry-framework-sustainable-materials.html</guid>
+      <pubDate>Thu, 27 Aug 2026 12:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>One step closer to the ideal glass—simulations reveal hidden order at absolute zero</title>
+      <link>https://phys.org/news/2026-08-closer-ideal-glass-simulations-reveal.html</link>
+      <description>&lt;div&gt;In the physical sense, glass is not limited to familiar window glass; it forms whenever a liquid is cooled so quickly that it cannot crystallize. As a result, glass has an amorphous structure—that is, its "building blocks" are not arranged regularly as in crystals. At the same time, however, glass is as resistant to deformation as a crystalline solid.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-closer-ideal-glass-simulations-reveal.html</guid>
+      <pubDate>Mon, 24 Aug 2026 17:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Century-old physics idea explains why cubic fluid equations work</title>
+      <link>https://phys.org/news/2026-08-century-physics-idea-cubic-fluid.html</link>
+      <description>&lt;div&gt;The Korea Institute of Civil Engineering and Building Technology (KICT) has developed a new cubic equation of state (EOS) that provides a physical justification for a mathematical structure that the chemical and petroleum industries have relied on for more than half a century without a first-principles explanation.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-century-physics-idea-cubic-fluid.html</guid>
+      <pubDate>Fri, 21 Aug 2026 01:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newton's momentum principles could help design safer offshore facilities in extreme waves</title>
+      <link>https://phys.org/news/2026-08-newton-momentum-principles-safer-offshore.html</link>
+      <description>&lt;div&gt;Researchers have developed a novel model to accurately and efficiently predict the impact of "green water"—water washing onto the deck of an offshore facility during extreme wave conditions.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-newton-momentum-principles-safer-offshore.html</guid>
+      <pubDate>Thu, 20 Aug 2026 17:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Curved surfaces reshape active materials, localizing vibrations near defects</title>
+      <link>https://phys.org/news/2026-08-surfaces-reshape-materials-localizing-vibrations.html</link>
+      <description>&lt;div&gt;Many materials, both living and engineered, are powered from within. Scientists have thoroughly investigated how such 'active' materials operate, but so far, mostly in circumstances where the curvature of the environment does not play a role. In research published in Physical Review Letters this week, a team of physicists proposes a framework to describe how active materials operate in the presence of curvature. The framework explains striking biological observations and may lead to geometry as a design parameter for new materials.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-surfaces-reshape-materials-localizing-vibrations.html</guid>
+      <pubDate>Tue, 18 Aug 2026 21:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sound-based traps reveal how fragile biomolecular droplets move, merge and change stiffness</title>
+      <link>https://phys.org/news/2026-08-based-reveal-fragile-biomolecular-droplets.html</link>
+      <description>&lt;div&gt;Being able to measure something plays a vital role in our ability to understand many phenomena. But measuring can often affect what we are trying to measure. This is particularly the case when measuring substances that are very small, soft or fragile. In a recent study published in PRX Life, a research team led by the University of Osaka successfully used acoustic tweezers as a contactless method to investigate an important type of fragile material called biopolymer condensates.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-based-reveal-fragile-biomolecular-droplets.html</guid>
+      <pubDate>Tue, 18 Aug 2026 20:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Loud snoring—simulation reveals the physical mechanism that keeps so many of us awake at night</title>
+      <link>https://phys.org/news/2026-08-loud-simulation-reveals-physical-mechanism.html</link>
+      <description>&lt;div&gt;Anyone who has had to share a room—or worse, a bed—with a loud snorer knows the effect unchecked snoring can have on sleep, sanity and emotional stability. An entire industry of products, technologies and treatments claims to cure or prevent loud snoring, with varying degrees of success.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-loud-simulation-reveals-physical-mechanism.html</guid>
+      <pubDate>Tue, 18 Aug 2026 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active particles could make stable glasses stronger without catastrophic brittle failure</title>
+      <link>https://phys.org/news/2026-08-particles-stable-glasses-stronger-catastrophic.html</link>
+      <description>&lt;div&gt;The strongest glasses have an Achilles' heel that causes them to fail catastrophically when pushed past their limit. They do not bend or stretch, as all damage concentrates into a single plane and the material fails in an instant. This brittleness has long capped the usefulness of high-stability amorphous solids, from bulk metallic glasses to engineered metamaterials.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-particles-stable-glasses-stronger-catastrophic.html</guid>
+      <pubDate>Sun, 16 Aug 2026 13:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cell biochemistry beyond membranes: Condensate physics reveals general rules for chemical responses</title>
+      <link>https://phys.org/news/2026-08-cell-biochemistry-membranes-condensate-physics.html</link>
+      <description>&lt;div&gt;Basic biology courses teach that cells contain organelles—such as the nucleus, mitochondria and Golgi apparatus—set apart by lipid membranes to get things done. Recent cell biology research has revealed another organizational principle at work in cells across all orders of biology.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-cell-biochemistry-membranes-condensate-physics.html</guid>
+      <pubDate>Fri, 14 Aug 2026 21:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tiny particles defy action-reaction symmetry to stay in motion</title>
+      <link>https://phys.org/news/2026-08-tiny-particles-defy-action-reaction.html</link>
+      <description>&lt;div&gt;From schools of fish and flocks of birds to microscopic synthetic particles, many systems in nature and the laboratory consist of individual units or agents that move by consuming energy. These systems are known as active matter because their components continuously use energy to generate motion, either individually or through interactions with their environment.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=11, active_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-tiny-particles-defy-action-reaction.html</guid>
+      <pubDate>Sun, 09 Aug 2026 16:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New thermodynamic framework explains pressure and edge currents in spinning active particles</title>
+      <link>https://phys.org/news/2026-07-thermodynamic-framework-pressure-edge-currents.html</link>
+      <description>&lt;div&gt;Physicists from Heinrich Heine University Düsseldorf (HHU), the Technical University of Darmstadt, Sapienza University in Rome and the University of Camerino (both in Italy) have calculated the fundamental laws of thermodynamics for a gas composed of spinning particles. In the scientific journal Proceedings of the National Academy of Sciences (PNAS), they demonstrate that the pressure of this gas is similar to that of a normal gas but at an elevated temperature. In addition, localized surface currents arise that can be used for targeted particle transport.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-07-thermodynamic-framework-pressure-edge-currents.html</guid>
+      <pubDate>Mon, 27 Jul 2026 22:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chocolate syrup-like fluid stores multiple interacting memories</title>
+      <link>https://phys.org/news/2026-07-chocolate-syrup-fluid-multiple-interacting.html</link>
+      <description>&lt;div&gt;Animals and electronic devices aren't the only things with memory. Materials can retain memories of past deformations in their microscopic structure. A common example is a crease in a sheet of paper that has been folded then unfolded. Understanding this type of memory could benefit the design of materials that respond to changes in their environment in predictable ways.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-07-chocolate-syrup-fluid-multiple-interacting.html</guid>
+      <pubDate>Thu, 23 Jul 2026 21:50:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Water-surface vortices drive tiny rotors without electricity, magnets or chemicals</title>
+      <link>https://phys.org/news/2026-07-surface-vortices-tiny-rotors-electricity.html</link>
+      <description>&lt;div&gt;Reliably generating controlled miniature rotations has long been a challenge: Chemical propulsion systems wear out, and methods that use electric or magnetic fields require complex setups. A team from KIT's Institute of Microstructure Technology (IMT) and the Suzhou Institute of Nano-tech and Nano-bionics (SINANO) at the Chinese Academy of Sciences has now demonstrated that flow at a water surface alone is sufficient to rotate a floating object in a fixed direction. Their research is published in the journal Science Advances.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-07-surface-vortices-tiny-rotors-electricity.html</guid>
+      <pubDate>Wed, 22 Jul 2026 22:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microscale roughness breakthrough defies 80 years of fluid dynamics</title>
+      <link>https://phys.org/news/2026-07-microscale-roughness-breakthrough-defies-years.html</link>
+      <description>&lt;div&gt;Logically, you would think a sleek surface has optimal aerodynamics—but recent research at Tohoku University turns this fundamental principle on its head. Applying an irregular microscale surface texture reduced the aerodynamic drag of a test model. The innovation has potential applications in the design of fuel-efficient vehicles. The study is published in the Journal of Fluid Mechanics.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-07-microscale-roughness-breakthrough-defies-years.html</guid>
+      <pubDate>Wed, 22 Jul 2026 16:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How physics and mathematical modeling help us make better clothes</title>
+      <link>https://phys.org/news/2026-07-physics-mathematical.html</link>
+      <description>&lt;div&gt;A new paper in the journal Nature Physics offers insights into the physics of liquid droplets—and while many people may not appreciate the mathematical accomplishment, they will benefit from the athletic wear and raincoats it makes possible. The recent article, "Tricky Tension," explores the intersection of physics and textiles and how wetting is influenced by the structure of tiny individual liquid droplets.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-07-physics-mathematical.html</guid>
+      <pubDate>Sat, 18 Jul 2026 12:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Silly sprinklers' put in reverse to further unravel decades-old physics puzzle</title>
+      <link>https://phys.org/news/2026-07-silly-sprinklers-reverse-unravel-decades.html</link>
+      <description>&lt;div&gt;Each summer, lawns are marked by a familiar addition: "silly sprinklers," whose loops and spirals spew water in creative ways. While seemingly frivolous in their construction, a team of mathematicians has used their design to address a long-standing mystery surrounding the laws of physics.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-07-silly-sprinklers-reverse-unravel-decades.html</guid>
+      <pubDate>Mon, 13 Jul 2026 19:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oobleck droplets reveal 5 ways cornstarch 'goo' behaves when hitting water</title>
+      <link>https://phys.org/news/2026-07-oobleck-droplets-reveal-ways-cornstarch.html</link>
+      <description>&lt;div&gt;Cornstarch can thicken soup or serve as a base for a DIY shampoo, but there's more to the humble pantry staple. Given the right conditions, it seems to defy the laws of physics. Mixing cornstarch with water creates "oobleck"—a shape-shifting substance classified as a non-Newtonian fluid that changes states when subjected to a force.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-07-oobleck-droplets-reveal-ways-cornstarch.html</guid>
+      <pubDate>Mon, 13 Jul 2026 13:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earth's deepest rocks help define upper limit for viscosity beyond which materials effectively become rigid</title>
+      <link>https://phys.org/news/2026-07-earth-deepest-upper-limit-viscosity.html</link>
+      <description>&lt;div&gt;Viscosity is one of the most fundamental physical properties used to describe how materials flow. It governs the movement of liquids, molten rocks and even slowly deforming regions deep inside the Earth. While scientists have long studied materials with low or moderate viscosities, a simple but important question has remained largely unexplored: Is there a physically meaningful upper limit to viscosity?&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-07-earth-deepest-upper-limit-viscosity.html</guid>
+      <pubDate>Mon, 06 Jul 2026 12:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists find molecular-level evidence for two structures in liquid water</title>
+      <link>https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html</link>
+      <description>&lt;div&gt;A study published in Nature Physics provides new molecular-level evidence from simulations that liquid water is not a single uniform substance, but a constantly shifting mixture of two distinct microscopic structures.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html</guid>
+      <pubDate>Thu, 25 Jun 2026 18:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists catch classical space-time crystals moving like Majorana quasiparticles</title>
+      <link>https://phys.org/news/2026-06-scientists-classical-space-crystals-majorana.html</link>
+      <description>&lt;div&gt;A research team from Hiroshima University, the University of Colorado, and other collaborators have demonstrated that space-time crystals—exotic structures that, under external drive, loop endlessly through both space and time—can be created using everyday liquid-crystal materials.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-06-scientists-classical-space-crystals-majorana.html</guid>
+      <pubDate>Wed, 24 Jun 2026 14:07:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso 'pucks' stop behaving predictably above certain pressures</title>
+      <link>https://phys.org/news/2026-06-espresso-pucks-pressures.html</link>
+      <description>&lt;div&gt;When a physics student asked baristas at the Warsaw Coffee Conference what their biggest question for scientists was, the baristas said they wanted to know how to stop channeling during brewing.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-06-espresso-pucks-pressures.html</guid>
+      <pubDate>Tue, 23 Jun 2026 15:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>A minimal model for how a cell takes shape from the inside</title>
+      <link>https://phys.org/news/2026-06-minimal-cell.html</link>
+      <description>&lt;div&gt;Researchers at the University of Twente and Utrecht University have packed rigid, rod-shaped particles into soft lipid containers the size of a living cell and watched the container and its contents reshape each other. The vesicle's form determines how the rods line up; the tightly packed rods, in turn, bend the container into new shapes. This provides a minimal model for how physical coupling between a soft boundary and internal filaments can help cellular structures organize from within. The paper is published in the Proceedings of the National Academy of Sciences.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-06-minimal-cell.html</guid>
+      <pubDate>Mon, 22 Jun 2026 21:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tiny objects swimming in a superfluid of light move against the flow</title>
+      <link>https://phys.org/news/2026-06-tiny-superfluid.html</link>
+      <description>&lt;div&gt;Superfluids are intriguing states of matter in which particles behave like a giant collective wave, allowing them to flow without any friction. When this fluid flows past a fixed obstacle at a velocity below a specific threshold, it moves around it without slowing down or exerting any drag. Above this critical velocity, however, the superfluid state starts to break down, and the energy from the flow dissipates in the form of ripples and vortices in the fluid.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-06-tiny-superfluid.html</guid>
+      <pubDate>Fri, 19 Jun 2026 17:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultrasound propagation in porous rocks: Theory identifies three distinct wave modes</title>
+      <link>https://phys.org/news/2026-06-ultrasound-propagation-porous-theory-distinct.html</link>
+      <description>&lt;div&gt;Ultrasound-based irradiation of rock formations has attracted considerable attention as a technique for enhancing heavy-oil (high-viscosity crude oil) recovery from deep underground reservoirs. However, a unified theoretical framework for wave propagation and energy dissipation in these formations remains lacking because water coexists with heavy oil within rock pores, and gas bubbles in the water respond dynamically to ultrasonic excitation, thereby creating a complex system.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-06-ultrasound-propagation-porous-theory-distinct.html</guid>
+      <pubDate>Thu, 18 Jun 2026 18:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>How do flocking birds and schools of fish move? New research offers crystal-clear answer</title>
+      <link>https://phys.org/news/2026-06-flocking-birds-schools-fish-crystal.html</link>
+      <description>&lt;div&gt;Flocking birds and schools of fish are a familiar sight. While previous research has uncovered the broad dynamics driving these movements, their underlying intricacies remain a mystery. Now a study by a team of New York University mathematicians offers new insights into these phenomena. It reveals that flocks and schools behave in ways similar to a soft crystalline material, with individual birds and fish serving as "atoms" that are evenly spaced in a lattice-like formation.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6, active_matter=12&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-06-flocking-birds-schools-fish-crystal.html</guid>
+      <pubDate>Thu, 18 Jun 2026 15:00:07 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

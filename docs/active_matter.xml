@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>活性物质精选</title>
+    <link>https://example.github.io/science-rss/</link>
+    <description>活性粒子、微游动体、群集运动与非平衡自组织</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 16 Sep 2026 08:40:04 +0000</lastBuildDate>
+    <item>
+      <title>Nonreciprocity Sends Flocks into Chaos</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.115</link>
+      <description>&lt;div&gt;Author(s): Sunghan Ro Two intermingled species of active matter can exhibit coherent rotation or disorderly scrambling depending on their mutual interactions. [Physics 19, 115] Published Tue Sep 08, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：softmatter=5, active_matter=6, condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.115</guid>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tiny particles defy action-reaction symmetry to stay in motion</title>
+      <link>https://phys.org/news/2026-08-tiny-particles-defy-action-reaction.html</link>
+      <description>&lt;div&gt;From schools of fish and flocks of birds to microscopic synthetic particles, many systems in nature and the laboratory consist of individual units or agents that move by consuming energy. These systems are known as active matter because their components continuously use energy to generate motion, either individually or through interactions with their environment.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=11, active_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-08-tiny-particles-defy-action-reaction.html</guid>
+      <pubDate>Sun, 09 Aug 2026 16:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transforming the Computational Workhorse of Electronic Structure</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s84</link>
+      <description>&lt;div&gt;Author(s): Rachel Berkowitz A geometric reformulation of time-dependent density-functional theory better describes nonequilibrium systems. [Physics 19, s84] Published Wed Jun 24, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：active_matter=3, condensed_matter=1&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s84</guid>
+      <pubDate>Wed, 24 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How do flocking birds and schools of fish move? New research offers crystal-clear answer</title>
+      <link>https://phys.org/news/2026-06-flocking-birds-schools-fish-crystal.html</link>
+      <description>&lt;div&gt;Flocking birds and schools of fish are a familiar sight. While previous research has uncovered the broad dynamics driving these movements, their underlying intricacies remain a mystery. Now a study by a team of New York University mathematicians offers new insights into these phenomena. It reveals that flocks and schools behave in ways similar to a soft crystalline material, with individual birds and fish serving as "atoms" that are evenly spaced in a lattice-like formation.&lt;/div&gt;&lt;p&gt;来源：Phys.org Soft Matter｜主题分数：softmatter=6, active_matter=12&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://phys.org/news/2026-06-flocking-birds-schools-fish-crystal.html</guid>
+      <pubDate>Thu, 18 Jun 2026 15:00:07 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -31,13 +31,10 @@ def write_feed(path: Path, title: str, description: str, link: str, articles: Li
         entry.link(href=article.link)
         entry.published(article.published)
         content = article.ai_summary or article.summary
-        basis = ""
-        if article.ai_summary and article.summary_basis == "abstract":
-            basis = "<p><em>说明：未能提取完整正文，本摘要依据标题与公开摘要生成。</em></p>"
         meta = f"来源：{article.source_name}"
         if article.topic_scores:
             meta += "｜主题分数：" + ", ".join(f"{k}={v}" for k, v in article.topic_scores.items())
-        entry.description(f"<div>{content}</div>{basis}<p>{meta}</p>")
+        entry.description(f"<div>{content}</div><p>{meta}</p>")
     fg.rss_file(str(path), pretty=True)
 
 

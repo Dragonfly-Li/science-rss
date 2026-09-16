@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Sci.News Physics</title>
+    <link>https://www.sci.news/news/physics</link>
+    <description>Sci.News Physics 自定义 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 16 Sep 2026 08:40:04 +0000</lastBuildDate>
+    <item>
+      <title>Back to top</title>
+      <link>https://www.sci.news/news/physics#top</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/news/physics#top</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tasmanian Tiger Hunted Like Opportunist, Not Wolf, New Research Suggests</title>
+      <link>https://www.sci.news/biology/tasmanian-tiger-opportunistic-hunter-15032.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/biology/tasmanian-tiger-opportunistic-hunter-15032.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Camera Traps Reveal Congo Basin’s Hidden Wildlife</title>
+      <link>https://www.sci.news/biology/lomami-national-park-camera-traps-15033.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/biology/lomami-national-park-camera-traps-15033.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fossil of Giant Squid-Like Creature from Cretaceous Period Bears Marks of Deadly Attack</title>
+      <link>https://www.sci.news/paleontology/enchoteuthis-gladius-bite-marks-15034.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/paleontology/enchoteuthis-gladius-bite-marks-15034.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Study: Night Owls Face Higher Mental Health Risks Tied to Work-Life Balance</title>
+      <link>https://www.sci.news/medicine/night-owls-mental-health-risks-work-life-balance-15035.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/medicine/night-owls-mental-health-risks-work-life-balance-15035.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini North Telescope Captures Stunning Portrait of Merging Spiral Galaxies</title>
+      <link>https://www.sci.news/astronomy/gemini-north-telescope-merging-spiral-galaxies-15036.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/astronomy/gemini-north-telescope-merging-spiral-galaxies-15036.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Some of Smallest Bee Species See Best, New Study Finds</title>
+      <link>https://www.sci.news/biology/bee-vision-15037.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/biology/bee-vision-15037.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Astronomers Discover Decagonal Wave circling Saturn’s South Pole</title>
+      <link>https://www.sci.news/astronomy/saturn-decagon-15039.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/astronomy/saturn-decagon-15039.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists Map Genetics of Personality across Million People</title>
+      <link>https://www.sci.news/genetics/personality-genes-15041.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/genetics/personality-genes-15041.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Young Chimps Develop Their Own Accents, New Study Finds</title>
+      <link>https://www.sci.news/biology/chimpanzee-dialects-15042.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/biology/chimpanzee-dialects-15042.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ancient DNA Rewrites Story of Enigmatic ‘American Cheetah’</title>
+      <link>https://www.sci.news/paleontology/miracinonyx-trumani-15043.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/paleontology/miracinonyx-trumani-15043.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>BepiColombo Begins Final Approach to Mercury</title>
+      <link>https://www.sci.news/space/bepicolombo-mercury-arrival-15044.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/space/bepicolombo-mercury-arrival-15044.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists Discover Soil Bacteria Enzyme that Breaks Down Both Plastic and Antibiotics</title>
+      <link>https://www.sci.news/biology/plastic-antibiotic-degrading-soil-bacteria-enzyme-15045.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/biology/plastic-antibiotic-degrading-soil-bacteria-enzyme-15045.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hubble Spots ‘Superbubble’ in Large Magellanic Cloud</title>
+      <link>https://www.sci.news/astronomy/hubble-superbubble-large-magellanic-cloud-15046.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/astronomy/hubble-superbubble-large-magellanic-cloud-15046.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>115-Million-Year-Old Dinosaur Fossil Recovered from Deep Drill Core in China</title>
+      <link>https://www.sci.news/paleontology/cretaceous-dinosaur-fossil-deep-drill-core-china-15048.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/paleontology/cretaceous-dinosaur-fossil-deep-drill-core-china-15048.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Energy May Not Be Constant After All, New Supernova Survey Suggests</title>
+      <link>https://www.sci.news/astronomy/changing-dark-energy-15049.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/astronomy/changing-dark-energy-15049.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could Scoop of Moon Dust Reveal Alien Technology?</title>
+      <link>https://www.sci.news/astronomy/alien-technosignatures-moon-15050.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/astronomy/alien-technosignatures-moon-15050.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hubble and Webb Team Up to Spy Tiny Frozen Worlds beyond Neptune</title>
+      <link>https://www.sci.news/astronomy/hubble-webb-trans-neptunian-objects-15052.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/astronomy/hubble-webb-trans-neptunian-objects-15052.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Unveil Complete Fruit Fly Connectome</title>
+      <link>https://www.sci.news/biology/complete-fruit-fly-connectome-15053.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/biology/complete-fruit-fly-connectome-15053.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Britain’s Tallest Standing Stones Traced to Their Geological Source</title>
+      <link>https://www.sci.news/archaeology/devils-arrows-source-15054.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/archaeology/devils-arrows-source-15054.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elephants Show Talent for Resisting Impulses</title>
+      <link>https://www.sci.news/biology/elephant-inhibitory-control-15055.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/biology/elephant-inhibitory-control-15055.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Denisovans Once Roamed Southwest China, New Fossils Reveal</title>
+      <link>https://www.sci.news/othersciences/anthropology/bianfu-cave-denisovans-15057.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/othersciences/anthropology/bianfu-cave-denisovans-15057.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ichthyosaurs Had Surprisingly Dense Ribs, New Study Finds</title>
+      <link>https://www.sci.news/paleontology/ichthyosaur-ribs-15059.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/paleontology/ichthyosaur-ribs-15059.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ancient Alligator Relative Lived Right After Dinosaur-Killing Asteroid</title>
+      <link>https://www.sci.news/paleontology/mandrasuchus-milleri-15060.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/paleontology/mandrasuchus-milleri-15060.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Study: Interstellar Comet 3I/ATLAS Formed in Cold, Nitrogen-Rich Environment</title>
+      <link>https://www.sci.news/astronomy/interstellar-comet-3i-atlas-cold-nitrogen-rich-environment-15061.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/astronomy/interstellar-comet-3i-atlas-cold-nitrogen-rich-environment-15061.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Devonian Armored Fish Show Multiple Ways to Crush Hard-Shelled Prey</title>
+      <link>https://www.sci.news/paleontology/devonian-placoderm-jaws-15062.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/paleontology/devonian-placoderm-jaws-15062.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mercury Has Shrunk Even More than Planetary Scientists Thought</title>
+      <link>https://www.sci.news/space/mercury-size-15063.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/space/mercury-size-15063.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Study Explains Why Venus Has No Moon</title>
+      <link>https://www.sci.news/space/venus-moon-15066.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/space/venus-moon-15066.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERN Physicists Pin Down W Boson Mass with Unprecedented Precision</title>
+      <link>https://www.sci.news/physics/w-boson-mass-14690.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/w-boson-mass-14690.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Holes from Before Big Bang Could Still Exist Today as ‘Cosmic Fossils’</title>
+      <link>https://www.sci.news/astronomy/relic-black-holes-14704.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/astronomy/relic-black-holes-14704.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Long-Standing Muon Mystery May Be Settled</title>
+      <link>https://www.sci.news/physics/hadronic-vacuum-polarization-muon-14715.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/hadronic-vacuum-polarization-muon-14715.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infrasound Can Subtly Raise Stress and Discomfort, New Study Finds</title>
+      <link>https://www.sci.news/othersciences/neuroscience/infrasound-stress-cortisol-14724.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/othersciences/neuroscience/infrasound-stress-cortisol-14724.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Matter May Have Jump-Started Universe’s First Giant Black Holes</title>
+      <link>https://www.sci.news/astronomy/decaying-dark-matter-supermassive-black-holes-14732.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/astronomy/decaying-dark-matter-supermassive-black-holes-14732.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gravitational Waves Could Become New Tool in Hunt for Dark Matter</title>
+      <link>https://www.sci.news/physics/gravitational-waves-dark-matter-14763.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/gravitational-waves-dark-matter-14763.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERN Physicists Observe New Exotic Particle</title>
+      <link>https://www.sci.news/physics/cern-bc-plus-meson-particle-14793.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/cern-bc-plus-meson-particle-14793.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bioluminescent Deep-Sea Fish Use Crystal ‘Prisms’ to Recycle Their Own Glow</title>
+      <link>https://www.sci.news/biology/sigmops-gracilis-photophores-14796.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/biology/sigmops-gracilis-photophores-14796.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Dark Energy Unnecessary? Mathematicians Challenge Standard Cosmological Model of Universe</title>
+      <link>https://www.sci.news/astronomy/dark-energy-alternative-14801.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/astronomy/dark-energy-alternative-14801.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schrödinger’s Cat Gets Stranger: Physicists Demonstrate Quantum States No One Has Seen Before</title>
+      <link>https://www.sci.news/physics/schrodingers-cat-states-14836.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/schrodingers-cat-states-14836.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERN Physicists Discover Third and Final Member of Doubly Charmed Baryon Family</title>
+      <link>https://www.sci.news/physics/cern-third-doubly-charmed-baryon-14857.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/cern-third-doubly-charmed-baryon-14857.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERN Physicists Take New Look at Why Matter Beat Antimatter</title>
+      <link>https://www.sci.news/physics/cp-violation-14930.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/cp-violation-14930.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERN Physicists Find Evidence for Gluon Saturation inside Atomic Nuclei</title>
+      <link>https://www.sci.news/physics/gluon-saturation-14986.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/gluon-saturation-14986.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Physicists Find Evidence for How Protons Carry Their Identity</title>
+      <link>https://www.sci.news/physics/baryon-junction-14992.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/baryon-junction-14992.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Physicists Use Sound Waves to Keep Quantum Information from Slipping Away</title>
+      <link>https://www.sci.news/physics/sound-based-quantum-network-15019.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/sound-based-quantum-network-15019.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CERN Physicists Hunting for Pairs of Higgs Bosons</title>
+      <link>https://www.sci.news/physics/double-higgs-production-15025.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/double-higgs-production-15025.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neutrino Laser is Physically and Fundamentally Impossible, Physicists Say</title>
+      <link>https://www.sci.news/physics/impossible-neutrino-laser-15038.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/impossible-neutrino-laser-15038.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Physicists Spot Curious Signal in Hunt for Elusive Dark Matter Particles</title>
+      <link>https://www.sci.news/physics/dark-matter-particles-15040.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/dark-matter-particles-15040.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Physicists Devise New Way to Listen for ‘Hairy’ Black Holes</title>
+      <link>https://www.sci.news/astronomy/black-hole-hair-15047.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/astronomy/black-hole-hair-15047.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Genetics</title>
+      <link>https://www.sci.news/news/genetics</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/news/genetics</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medicine</title>
+      <link>https://www.sci.news/news/medicine</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/news/medicine</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paleontology</title>
+      <link>https://www.sci.news/news/paleontology</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/news/paleontology</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Archaeology</title>
+      <link>https://www.sci.news/news/archaeology</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/news/archaeology</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Space Exploration</title>
+      <link>https://www.sci.news/news/space</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/news/space</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Astronomy</title>
+      <link>https://www.sci.news/news/astronomy</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/news/astronomy</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Owl Species Discovered in Peru</title>
+      <link>https://www.sci.news/biology/bubo-jalca-15051.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/biology/bubo-jalca-15051.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paleontologists Discover First-Ever Adult Tyrannosaurus rex Trackway</title>
+      <link>https://www.sci.news/paleontology/adult-tyrannosaurus-rex-trackway-15056.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/paleontology/adult-tyrannosaurus-rex-trackway-15056.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exceptionally Preserved Bird Feathers Found in 66-Million-Year-Old Dinosaur Coprolite</title>
+      <link>https://www.sci.news/paleontology/hesperornithiform-bird-feathers-dinosaur-coprolite-15058.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/paleontology/hesperornithiform-bird-feathers-dinosaur-coprolite-15058.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diplodocus, Long Thought Exclusively American, Turns Up in Spain</title>
+      <link>https://www.sci.news/paleontology/spanish-diplodocus-15064.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/paleontology/spanish-diplodocus-15064.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spanish Amber Deposit Offers Rare Window into Cretaceous Life</title>
+      <link>https://www.sci.news/paleontology/el-soplao-amber-15065.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/paleontology/el-soplao-amber-15065.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Entanglement Survives Violence of CERN’s Large Hadron Collider</title>
+      <link>https://www.sci.news/physics/large-hadron-collider-quantum-entanglement-15067.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/physics/large-hadron-collider-quantum-entanglement-15067.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Dicynodont Species from Tanzania Suggests Younger Age for Rocks Tied to Earliest Dinosaurs</title>
+      <link>https://www.sci.news/paleontology/dinodontosaurus-isiyavamanda-15068.html</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：Sci.News Physics&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sci.news/paleontology/dinodontosaurus-isiyavamanda-15068.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

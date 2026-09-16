@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>凝聚态物理精选</title>
+    <link>https://example.github.io/science-rss/</link>
+    <description>凝聚态、量子材料、拓扑与超导研究</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 16 Sep 2026 08:40:04 +0000</lastBuildDate>
+    <item>
+      <title>‘Vacuumtronics’ could help make better superconductors</title>
+      <link>https://physicsworld.com/a/vacuumtronics-could-help-make-better-superconductors/</link>
+      <description>&lt;div&gt;Vacuum fluctuations could be a non-invasive way to tune superconductivity The post ‘Vacuumtronics’ could help make better superconductors appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/vacuumtronics-could-help-make-better-superconductors/</guid>
+      <pubDate>Tue, 15 Sep 2026 11:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Quantum Filter for Improved Spintronics</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s108</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson A precisely engineered material interface can host the spin currents needed for practical spin-based electronics. [Physics 19, s108] Published Thu Sep 03, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=13&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s108</guid>
+      <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sliding water droplets corrode Teflon-coated metal</title>
+      <link>https://physicsworld.com/a/sliding-water-droplets-corrode-coated-metals/</link>
+      <description>&lt;div&gt;Effect could damage outdoor equipment and monuments The post Sliding water droplets corrode Teflon-coated metal appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/sliding-water-droplets-corrode-coated-metals/</guid>
+      <pubDate>Tue, 01 Sep 2026 07:19:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Magnetic field first kills superconductor, then brings it back to life</title>
+      <link>https://physicsworld.com/a/magnetic-field-first-kills-superconductor-then-brings-it-back-to-life/</link>
+      <description>&lt;div&gt;“Re-entrant” superconductivity discovered in a 2D material for the first time The post Magnetic field first kills superconductor, then brings it back to life appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/magnetic-field-first-kills-superconductor-then-brings-it-back-to-life/</guid>
+      <pubDate>Fri, 28 Aug 2026 11:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>X-ray camera catches spin waves in the act</title>
+      <link>https://physicsworld.com/a/x-ray-camera-catches-spin-waves-in-the-act/</link>
+      <description>&lt;div&gt;Magnon microscope focuses on useful non-linear interactions The post X-ray camera catches spin waves in the act appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/x-ray-camera-catches-spin-waves-in-the-act/</guid>
+      <pubDate>Thu, 27 Aug 2026 07:53:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>The physics of novel computation: beyond bits and chips to spikes and spins</title>
+      <link>https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/</link>
+      <description>&lt;div&gt;Sidney Perkowitz looks into alternative computing methods inspired by physics to improve computational efficiency and power The post The physics of novel computation: beyond bits and chips to spikes and spins appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/</guid>
+      <pubDate>Wed, 19 Aug 2026 14:30:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crystal symmetry controls hydrogen’s quantum tunnelling</title>
+      <link>https://physicsworld.com/a/crystal-symmetry-controls-hydrogens-quantum-tunnelling/</link>
+      <description>&lt;div&gt;Discovery could support the development of safer and more efficient hydrogen storage media The post Crystal symmetry controls hydrogen’s quantum tunnelling appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/crystal-symmetry-controls-hydrogens-quantum-tunnelling/</guid>
+      <pubDate>Thu, 13 Aug 2026 08:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topology affects the crumpling of growing elastic sheets</title>
+      <link>https://physicsworld.com/a/topology-affects-the-crumpling-of-growing-elastic-sheets/</link>
+      <description>&lt;div&gt;Discovery could lead to new metamaterials The post Topology affects the crumpling of growing elastic sheets appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/topology-affects-the-crumpling-of-growing-elastic-sheets/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:10:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heat-transfer fins give phase change materials a boost</title>
+      <link>https://physicsworld.com/a/heat-transfer-fins-give-phase-change-materials-a-boost/</link>
+      <description>&lt;div&gt;Modelling points the way towards optimal designs for systems that store and release heat The post Heat-transfer fins give phase change materials a boost appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/heat-transfer-fins-give-phase-change-materials-a-boost/</guid>
+      <pubDate>Fri, 31 Jul 2026 08:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experiments provide new insights into the reverse sprinkler problem</title>
+      <link>https://physicsworld.com/a/experiments-provide-new-insights-into-the-reverse-sprinkler-problem/</link>
+      <description>&lt;div&gt;New experiments suggest that a reverse sprinkler is driven by angular momentum induced at its centre as water is drawn in The post Experiments provide new insights into the reverse sprinkler problem appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/experiments-provide-new-insights-into-the-reverse-sprinkler-problem/</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum entanglement explains why strange metals are so strange</title>
+      <link>https://physicsworld.com/a/quantum-entanglement-explains-why-strange-metals-are-so-strange/</link>
+      <description>&lt;div&gt;New measurements and a tool from quantum metrology provide new insights into metals with unusually high electrical resistance The post Quantum entanglement explains why strange metals are so strange appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/quantum-entanglement-explains-why-strange-metals-are-so-strange/</guid>
+      <pubDate>Fri, 17 Jul 2026 08:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evidence Emerges for a Fractional Topological Insulator</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s87</link>
+      <description>&lt;div&gt;Author(s): Ryan Wilkinson Experiments show signs of a material that conducts electricity in opposite directions along its edges through fractionally charged quasiparticles. [Physics 19, s87] Published Thu Jul 16, 2026&lt;/div&gt;&lt;p&gt;来源：APS Physics Recent｜主题分数：condensed_matter=10&lt;/p&gt;</description>
+      <guid isPermaLink="false">http://link.aps.org/doi/10.1103/Physics.19.s87</guid>
+      <pubDate>Thu, 16 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metamaterial boosts heat transfer on the nanoscale</title>
+      <link>https://physicsworld.com/a/metamaterial-boosts-heat-transfer-on-the-nanoscale/</link>
+      <description>&lt;div&gt;New finding could help improve technologies such as on-chip cooling and thermophotovoltaic systems The post Metamaterial boosts heat transfer on the nanoscale appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/metamaterial-boosts-heat-transfer-on-the-nanoscale/</guid>
+      <pubDate>Mon, 13 Jul 2026 08:15:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Static electricity: mysteries lurk within this everyday phenomenon</title>
+      <link>https://physicsworld.com/a/static-electricity-mysteries-lurk-within-this-everyday-phenomenon/</link>
+      <description>&lt;div&gt;Soft-matter expert Scott Waitukaitis is our podcast guest The post Static electricity: mysteries lurk within this everyday phenomenon appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/static-electricity-mysteries-lurk-within-this-everyday-phenomenon/</guid>
+      <pubDate>Thu, 09 Jul 2026 13:30:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>New superconducting diode gives greater control over the flow of electrons</title>
+      <link>https://physicsworld.com/a/new-superconducting-diode-gives-greater-control-over-the-flow-of-electrons/</link>
+      <description>&lt;div&gt;Device based on two-dimensional oxide interface superconductors can be “edited” using atomic force microscope lithography The post New superconducting diode gives greater control over the flow of electrons appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/new-superconducting-diode-gives-greater-control-over-the-flow-of-electrons/</guid>
+      <pubDate>Thu, 02 Jul 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>New model of ocean waves sheds fresh light on the spread of microplastic pollution</title>
+      <link>https://physicsworld.com/a/new-model-of-ocean-waves-sheds-fresh-light-on-the-spread-of-microplastic-pollution/</link>
+      <description>&lt;div&gt;Waves that decay over time can transport particles vertically as well as horizontally The post New model of ocean waves sheds fresh light on the spread of microplastic pollution appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/new-model-of-ocean-waves-sheds-fresh-light-on-the-spread-of-microplastic-pollution/</guid>
+      <pubDate>Thu, 25 Jun 2026 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New class of magnons live a hundred times longer</title>
+      <link>https://physicsworld.com/a/new-class-of-magnons-live-a-hundred-times-longer/</link>
+      <description>&lt;div&gt;Discovery could help in the development of on-chip quantum information technologies that can be scaled down to the nanoscale The post New class of magnons live a hundred times longer appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/new-class-of-magnons-live-a-hundred-times-longer/</guid>
+      <pubDate>Fri, 19 Jun 2026 10:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venus flytraps snap shut by rapid cell-wall softening</title>
+      <link>https://physicsworld.com/a/venus-flytraps-snap-shut-by-rapid-cell-wall-softening/</link>
+      <description>&lt;div&gt;Previous theory of water transport is ruled out The post Venus flytraps snap shut by rapid cell-wall softening appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/venus-flytraps-snap-shut-by-rapid-cell-wall-softening/</guid>
+      <pubDate>Wed, 17 Jun 2026 07:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Altermagnets can turn neighbouring materials altermagnetic, too</title>
+      <link>https://physicsworld.com/a/altermagnets-can-turn-neighbouring-materials-altermagnetic-too/</link>
+      <description>&lt;div&gt;"Proximity effect" appears in models of semiconductor/altermagnet bilayer structures The post Altermagnets can turn neighbouring materials altermagnetic, too appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/altermagnets-can-turn-neighbouring-materials-altermagnetic-too/</guid>
+      <pubDate>Thu, 11 Jun 2026 11:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interface between air and water gets a new twist</title>
+      <link>https://physicsworld.com/a/interface-between-air-and-water-gets-a-new-twist/</link>
+      <description>&lt;div&gt;Vibrational spectroscopy technique reshapes our understanding of how water molecules behave at the boundary The post Interface between air and water gets a new twist appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/interface-between-air-and-water-gets-a-new-twist/</guid>
+      <pubDate>Mon, 08 Jun 2026 08:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pigeons’ immune system can sense Earth’s magnetic field, study suggests</title>
+      <link>https://physicsworld.com/a/pigeons-immune-system-can-sense-earths-magnetic-field-study-suggests/</link>
+      <description>&lt;div&gt;Molecules become magnetic by accumulating iron The post Pigeons’ immune system can sense Earth’s magnetic field, study suggests appeared first on Physics World .&lt;/div&gt;&lt;p&gt;来源：Physics World Condensed Matter｜主题分数：condensed_matter=6&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://physicsworld.com/a/pigeons-immune-system-can-sense-earths-magnetic-field-study-suggests/</guid>
+      <pubDate>Fri, 05 Jun 2026 10:38:06 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

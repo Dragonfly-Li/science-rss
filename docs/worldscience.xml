@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>世界科学</title>
+    <link>https://worldscience.cn/dt/</link>
+    <description>世界科学 自定义 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 16 Sep 2026 08:40:04 +0000</lastBuildDate>
+    <item>
+      <title>12张图表解读2026年AI发展现状和趋势……斯坦福大学发布《2026年人工智能指数报告》</title>
+      <link>https://worldscience.cn/c/2026-04-27/666648.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2026-04-27/666648.shtml</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>新发现：新冠轻症患者10天后不再具有传染性</title>
+      <link>https://worldscience.cn/c/2020-03-13/609857.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2020-03-13/609857.shtml</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>14世纪，人类就开始用“隔离”阻断传染病</title>
+      <link>https://worldscience.cn/c/2020-02-05/608609.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2020-02-05/608609.shtml</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>一栋楼里有人确诊怎么办？</title>
+      <link>https://worldscience.cn/c/2022-04-02/638192.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2022-04-02/638192.shtml</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>新冠病毒疫情将会怎样结束？</title>
+      <link>https://worldscience.cn/c/2020-02-06/608636.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2020-02-06/608636.shtml</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>新冠病毒究竟起源于哪里？自然起源说，生物武器说，实验室泄漏说……</title>
+      <link>https://worldscience.cn/c/2020-04-23/611286.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2020-04-23/611286.shtml</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球上最致命的12种病毒</title>
+      <link>https://worldscience.cn/c/2020-03-11/609829.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2020-03-11/609829.shtml</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>新冠病毒，它是什么颜色？</title>
+      <link>https://worldscience.cn/c/2020-05-06/611578.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2020-05-06/611578.shtml</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>2021年，有哪些值得关注的太空大事件？</title>
+      <link>https://worldscience.cn/c/2021-02-09/630280.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2021-02-09/630280.shtml</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>新冠疫情的3种发展趋势预测</title>
+      <link>https://worldscience.cn/c/2020-05-28/613866.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2020-05-28/613866.shtml</guid>
+      <pubDate>Wed, 16 Sep 2026 08:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>户外运动预防近视的机制找着了？ | 新闻串烧</title>
+      <link>https://worldscience.cn/c/2026-09-14/667175.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2026-09-14/667175.shtml</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>观测效率是哈勃的千倍，视野是哈勃的百倍……罗曼空间望远镜启动宇宙巡视</title>
+      <link>https://worldscience.cn/c/2026-09-10/667172.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2026-09-10/667172.shtml</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>当AI让悬置了数十年的数学猜想突破时，陶哲轩在想什么？</title>
+      <link>https://worldscience.cn/c/2026-09-09/667171.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2026-09-09/667171.shtml</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>外向、尽责、神经质……《自然》识别千余个人格相关遗传位点</title>
+      <link>https://worldscience.cn/c/2026-09-07/667168.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2026-09-07/667168.shtml</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI巨头开始给生成的文本打水印了……肉眼看不见，但机器可溯源</title>
+      <link>https://worldscience.cn/c/2026-09-04/667167.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2026-09-04/667167.shtml</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transformer 架构瓶颈日益凸显，四大技术路线突围，谁会成为下一轮 AI 风口？</title>
+      <link>https://worldscience.cn/c/2026-09-03/667166.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2026-09-03/667166.shtml</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CPU在智能体AI时代迎来复兴？</title>
+      <link>https://worldscience.cn/c/2026-09-01/667107.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2026-09-01/667107.shtml</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年的厄尔尼诺将成为史上最强？2027年全球气温还要创历史新高？</title>
+      <link>https://worldscience.cn/c/2026-08-31/667106.shtml</link>
+      <description>&lt;div&gt;&lt;/div&gt;&lt;p&gt;来源：世界科学&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://worldscience.cn/c/2026-08-31/667106.shtml</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
