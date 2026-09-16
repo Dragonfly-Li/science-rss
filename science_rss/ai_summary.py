@@ -97,12 +97,17 @@ def summarize_articles(articles: Iterable[Article], cache_dir: Path, max_new: in
     client_options = {"api_key": api_key, "timeout": 60.0, "max_retries": 2}
     if base_url:
         client_options["base_url"] = base_url.rstrip("/")
+    client_options["max_retries"] = 1
     client = OpenAI(**client_options)
     model = os.getenv("OPENAI_MODEL", "gpt-5-mini")
-    created = failed = 0
+    created = failed = attempted = 0
+    errors = []
     for article in unique.values():
-        if article.ai_summary or created >= max_new:
+        if article.ai_summary:
             continue
+        if attempted >= max_new:
+            break
+        attempted += 1
         try:
             material, basis = extract_article_text(article)
             response = client.responses.create(
@@ -128,6 +133,14 @@ def summarize_articles(articles: Iterable[Article], cache_dir: Path, max_new: in
             cache.save(article)
             created += 1
         except Exception as exc:
-            print(f"AI summary failed for {article.link}: {type(exc).__name__}: {exc}")
+            message = f"{type(exc).__name__}: {exc}"
+            print(f"AI summary failed for {article.link}: {message}")
+            if len(errors) < 3:
+                errors.append({"url": article.link, "error": message[:1000]})
             failed += 1
-    return {"enabled": True, "cached": cached, "created": created, "failed": failed}
+            # Relay 5xx errors usually affect the whole upstream group. Stop
+            # immediately instead of sending the same doomed request for every
+            # article; the next hourly run can retry after the provider recovers.
+            if getattr(exc, "status_code", None) in {500, 502, 503, 504}:
+                break
+    return {"enabled": True, "cached": cached, "attempted": attempted, "created": created, "failed": failed, "errors": errors}
