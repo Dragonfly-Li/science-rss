@@ -1,0 +1,89 @@
+sources:
+  - id: zhisheshutu
+    name: 知社学术圈
+    url: https://m.sohu.com/media/199523
+    type: html
+    selectors: {item: "article, .news-list li, .feed-item", title: "h3, h2, .title", link: "a", date: "time, .time, .date"}
+
+  - id: byteclicks
+    name: ByteClicks Frontier
+    url: https://byteclicks.com/frontier
+    type: html
+    selectors: {item: "article, .post, .article-item", title: "h2, h3, .title", link: "a", date: "time, .date"}
+
+  - id: pansci
+    name: 泛科学
+    url: https://pansci.asia/news
+    type: html
+    selectors: {item: "article, .post, .news-item", title: "h2, h3, .entry-title", link: "a", date: "time, .date"}
+
+  - id: cas_daily
+    name: 中科院每日科学
+    url: https://www.cas.cn/kj/
+    type: html
+    selectors: {item: "li, .news-item", title: "a", link: "a", date: ".date, .time, span"}
+
+  - id: sciencenet_news
+    name: 科学网新闻
+    url: http://www.sciencenet.cn/xml/news-0.aspx?news=0
+    type: rss
+
+  - id: sciencenet_paper
+    name: 科学网论文
+    url: http://www.sciencenet.cn/xml/news-0.aspx?di=8
+    type: rss
+
+  - id: mittrchina
+    name: MIT科技评论中文版
+    url: https://www.mittrchina.com/
+    type: html
+    browser_fallback: true
+    selectors: {item: "article, .article-item, .post", title: "h2, h3, .title", link: "a", date: "time, .date"}
+
+  - id: scitw
+    name: 科学人
+    url: https://www.scitw.cc/
+    type: html
+    browser_fallback: true
+    selectors: {item: "article, .post, .article", title: "h2, h3, .entry-title", link: "a", date: "time, .date"}
+
+  - id: huanqiukexue
+    name: 环球科学
+    url: https://www.huanqiukexue.com/
+    type: html
+    selectors: {item: "article, .article-item, .news-item", title: "h2, h3, .title", link: "a", date: "time, .date"}
+
+  - id: worldscience
+    name: 世界科学
+    url: https://worldscience.cn/dt/
+    type: html
+    selectors: {item: "article, li, .news-item", title: "h2, h3, a", link: "a", date: "time, .date"}
+
+  - id: nsfc
+    name: 基金成果快讯
+    url: https://www.nsfc.gov.cn/csc/20340/20343/index.html
+    type: html
+    selectors: {item: "li, .news-list-item, .list-item", title: "a", link: "a", date: ".date, .time, span"}
+
+  - id: phys_softmatter
+    name: Phys.org Soft Matter
+    url: https://phys.org/rss-feed/physics-news/soft-matter/
+    fallback_url: https://phys.org/physics-news/soft-matter/
+    type: rss
+
+  - id: physicsworld_cm
+    name: Physics World Condensed Matter
+    url: https://physicsworld.com/c/condensed-matter/feed/
+    fallback_url: https://physicsworld.com/c/condensed-matter/
+    type: rss
+
+  - id: scinews_physics
+    name: Sci.News Physics
+    url: https://www.sci.news/news/physics
+    type: html
+    selectors: {item: "article, .post, .article", title: "h2, h3, .entry-title", link: "a", date: "time, .date"}
+
+  - id: aps_pr
+    name: APS Physics Recent
+    url: http://feeds.aps.org/rss/recent/physics.xml
+    type: rss

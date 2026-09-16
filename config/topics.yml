@@ -1,0 +1,89 @@
+settings:
+  minimum_score: 2
+  title_multiplier: 3
+  summary_multiplier: 1
+  max_items_per_feed: 100
+  max_age_days: 120
+
+global_exclude:
+  - horoscope
+  - celebrity
+  - investment advice
+  - 股票推荐
+  - 星座
+  - 娱乐
+
+topics:
+  softmatter:
+    name: 软物质精选
+    description: 软物质、胶体、聚合物、颗粒、液晶、玻璃态与相分离研究
+    include:
+      soft matter: 5
+      active matter: 5
+      colloid: 4
+      polymer: 3
+      granular: 4
+      liquid crystal: 4
+      phase separation: 4
+      glass transition: 4
+      rheology: 4
+      hydrogel: 3
+      emulsion: 3
+      self-assembly: 3
+      软物质: 5
+      胶体: 4
+      聚合物: 3
+      颗粒物质: 4
+      液晶: 4
+      相分离: 4
+      玻璃态: 4
+      流变: 4
+      水凝胶: 3
+      乳液: 3
+      自组装: 3
+    exclude: [soft drink, software, 柔性办公]
+    source_boost: {phys_softmatter: 6}
+
+  active_matter:
+    name: 活性物质精选
+    description: 活性粒子、微游动体、群集运动与非平衡自组织
+    include:
+      active matter: 6
+      active particle: 6
+      active fluid: 5
+      microswimmer: 5
+      motility-induced: 6
+      collective motion: 4
+      flocking: 4
+      nonequilibrium: 3
+      self-propelled: 5
+      活性物质: 6
+      活性粒子: 6
+      微游动体: 5
+      群集运动: 4
+      非平衡: 3
+      自驱动: 5
+      运动诱导相分离: 6
+    exclude: [active ingredient, active user, 活性成分, 活跃用户]
+
+  condensed_matter:
+    name: 凝聚态物理精选
+    description: 凝聚态、量子材料、拓扑与超导研究
+    include:
+      condensed matter: 5
+      quantum material: 4
+      topological: 3
+      superconduct: 4
+      spintronics: 4
+      moiré: 4
+      moire: 4
+      correlated electron: 4
+      凝聚态: 5
+      量子材料: 4
+      拓扑: 3
+      超导: 4
+      自旋电子: 4
+      莫尔: 4
+      强关联: 4
+    exclude: [business topology, network topology, 网络拓扑]
+    source_boost: {physicsworld_cm: 6, aps_pr: 1}
