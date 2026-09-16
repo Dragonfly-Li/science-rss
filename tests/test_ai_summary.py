@@ -56,15 +56,40 @@ def test_api_result_is_saved_and_attached(tmp_path, monkeypatch):
             assert "instructions" in kwargs
             return Response()
 
+    received_options = {}
+
     class Client:
         def __init__(self, **kwargs):
+            received_options.update(kwargs)
             self.responses = Responses()
 
     monkeypatch.setitem(sys.modules, "openai", types.SimpleNamespace(OpenAI=Client))
     monkeypatch.setenv("OPENAI_API_KEY", "test-key")
+    monkeypatch.setenv("OPENAI_BASE_URL", "https://relay.example/v1/")
     monkeypatch.setattr("science_rss.ai_summary.extract_article_text", lambda article: ("paper text", "fulltext"))
     article = make_article()
     status = summarize_articles([article], tmp_path)
     assert status["created"] == 1
     assert "研究动机" in article.ai_summary
     assert SummaryCache(tmp_path).load(make_article())
+    assert received_options["base_url"] == "https://relay.example/v1"
+
+
+def test_official_api_omits_custom_base_url(tmp_path, monkeypatch):
+    received_options = {}
+
+    class Responses:
+        def create(self, **kwargs):
+            return types.SimpleNamespace(output_text="<b>研究动机：</b>动机。<b>研究方法：</b>方法。<b>主要结论：</b>结论。<b>科学意义：</b>意义。")
+
+    class Client:
+        def __init__(self, **kwargs):
+            received_options.update(kwargs)
+            self.responses = Responses()
+
+    monkeypatch.setitem(sys.modules, "openai", types.SimpleNamespace(OpenAI=Client))
+    monkeypatch.setenv("OPENAI_API_KEY", "test-key")
+    monkeypatch.delenv("OPENAI_BASE_URL", raising=False)
+    monkeypatch.setattr("science_rss.ai_summary.extract_article_text", lambda article: ("paper text", "fulltext"))
+    summarize_articles([make_article()], tmp_path)
+    assert "base_url" not in received_options

@@ -93,7 +93,11 @@ def summarize_articles(articles: Iterable[Article], cache_dir: Path, max_new: in
         return {"enabled": False, "cached": cached, "created": 0, "failed": 0}
 
     from openai import OpenAI
-    client = OpenAI(api_key=api_key, timeout=60.0, max_retries=2)
+    base_url = os.getenv("OPENAI_BASE_URL", "").strip()
+    client_options = {"api_key": api_key, "timeout": 60.0, "max_retries": 2}
+    if base_url:
+        client_options["base_url"] = base_url.rstrip("/")
+    client = OpenAI(**client_options)
     model = os.getenv("OPENAI_MODEL", "gpt-5-mini")
     created = failed = 0
     for article in unique.values():

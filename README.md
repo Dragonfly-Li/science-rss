@@ -34,6 +34,18 @@
 2. 在 **Variables** 可选新建 `OPENAI_MODEL`。默认使用 `gpt-5-mini`，可根据账户可用模型修改。
 3. 在 **Variables** 可选新建 `AI_MAX_NEW_SUMMARIES`。默认每次最多新增 20 篇摘要，避免第一次运行产生过多调用；之后每小时继续处理剩余文章。
 
+### 使用 Black AI Coding 中转站
+
+如果使用 Black AI Coding 的 Key，仍将 Key 保存为 Secret `OPENAI_API_KEY`，然后在 **Variables** 中设置：
+
+```text
+OPENAI_BASE_URL = https://blackaicoding.com/v1
+OPENAI_MODEL = gpt-5
+AI_MAX_NEW_SUMMARIES = 3
+```
+
+建议第一次只生成 3 篇，确认接口、摘要质量和余额扣费正常后，再把 `AI_MAX_NEW_SUMMARIES` 调整为 `20`。删除 `OPENAI_BASE_URL` 后，程序会自动恢复使用 OpenAI 官方接口。
+
 没有配置 API Key 时，普通 RSS 仍会正常生成，AI 摘要源暂时为空。AI 调用失败也不会阻断抓取和发布。
 
 部署完成后，首页地址通常是：
