@@ -58,7 +58,7 @@ jobs:
         run: |
           BASE="${RSS_BASE_URL:-https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}/}"
           export OPENAI_MODEL="${OPENAI_MODEL:-gpt-5}"
-          export AI_MAX_NEW_SUMMARIES="${AI_MAX_NEW_SUMMARIES:-3}"
+          export AI_MAX_NEW_SUMMARIES="${AI_MAX_NEW_SUMMARIES:-10}"
           python build.py --base-url "$BASE"
 
       - uses: actions/configure-pages@v5
